@@ -11,3 +11,5 @@ describe('Excluir fornecedor E2E', () => {
         expect(response.statusCode).toBe(200);
     });
 });
+
+
